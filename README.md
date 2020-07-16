@@ -5,3 +5,5 @@ CarpentryCon training workshop
 	- make sure you are not in another repo
 	- just like `git init` do only per repo
 
+## Branching
+- `git branch`
