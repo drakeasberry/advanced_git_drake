@@ -1,4 +1,4 @@
-# advanced git drake
+# Advanced Git CarpentryCon@Home
 CarpentryCon training workshop
 
 ## Cloning
